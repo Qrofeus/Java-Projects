@@ -1,2 +1,7 @@
-# Fortune-Cookie
-Executable and .Java program for fortune cookie messages
+# Java Projects
+
+Fortune-Cookie
+  Windows Executable, Java project folder
+
+TicTacToe
+  Windows Executable, Java project folder
